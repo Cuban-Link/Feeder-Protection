@@ -1,3 +1,4 @@
+#This file is a rudimentary test circuit for OpenDSSDirect.py.
 import opendssdirect as dss
 dss.run_command("Clear")
 
